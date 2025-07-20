@@ -4,5 +4,6 @@ def even(n1):
 
   else:
     return("Odd Number")
-
-even(17)
+#  changes done by Sneha
+num=int(input("Enter a number: "))
+even(num)
