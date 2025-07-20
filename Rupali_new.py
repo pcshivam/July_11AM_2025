@@ -1,2 +1,2 @@
 
-print("Good Morning all, i am learning Pythin today")
+print("Good Morning all, i am learning Python today")
